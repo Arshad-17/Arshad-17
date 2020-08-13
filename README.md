@@ -10,3 +10,8 @@ Seethanagaram, Andhra Pradesh - 533287
  - Pandas, Numpy, Seaborn libraries 
  - Machine Learning Algorithms 
  - HTML5, CSS AND FLASK
+
+
+LANGUAGES KNOWN 
+ 
+- English, Telugu, and Hindi 
