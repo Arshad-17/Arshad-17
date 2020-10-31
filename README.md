@@ -6,7 +6,7 @@ arshadali17082000@gmail.com
 Seethanagaram, Andhra Pradesh - 533287 
 
 SKILLS
- - Programming Languages: C, Python 
+ - Programming Languages: C, C++, Python 
  - Pandas, Numpy, Seaborn libraries 
  - Machine Learning Algorithms 
  - HTML5, CSS AND FLASK
